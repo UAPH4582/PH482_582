@@ -1,0 +1,5 @@
+PS: As it is a ongoing research, we informed Dr. Gleyzer thst we will not share our full dataset and also, we can not give a colab link as the code will not work.
+Dr. Gleyzer permitted us to do so.
+
+SmartGlass Based Human Activity Recognition using CNN
+The objective of the project is to apply the machine learning for six different human activity recognition (HAR). The previous HAR experiments showed the superiority of NN, so we used CNN and accelerometer and gyroscope sensor data to detect the following activity: walking, running, sweeping, cycling, basketball playing, and working with the computer. Using two separate devices we collected the accelerometer and gyroscope sensor data. The first device is eyeglass mounted automated ingestion monitor (AIM) device and ActiGraph GT9X Link. The performance evaluation will help to explore the smart-glass based human activity recognition. 
